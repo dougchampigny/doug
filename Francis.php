@@ -4,10 +4,10 @@ class Francis {
 	public function yo($input)
 	{
 		if($input == 'Did you finish your homework?'){
-			return 'Sure';
+			return 'Sure.';
 		}
 		elseif($input == 'GOOOAAALLL'){
-			return 'Chill';
+			return 'Chill!';
 		}
 		elseif($input == ''){
 			return 'See if I care!';
